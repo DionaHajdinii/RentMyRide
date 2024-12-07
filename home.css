@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Syncopate:wght@400;700&display=swap");
 
 :root {
-  --primary-color: #0b80ae;
-  --primary-color-dark: #0b3b94;
-  --text-dark: #15191d;
+  --primary-color: #4f08d3;
+  --primary-color-dark: #d6a04a;
+  --text-dark: #041c35;
   --text-light: #737373;
-  --extra-light: #cac0c0;
+  --extra-light: #e5e5e5;
   --white: #ffffff;
   --max-width: 1200px;
   --header-font: "Syncopate", sans-serif;
@@ -243,6 +243,7 @@ nav {
   margin-bottom: 4rem;
   text-align: center;
 }
+
 .range__grid {
   display: grid;
   gap: 1rem;
