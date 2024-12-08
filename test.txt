@@ -1,5 +1,0 @@
-HEAD
-this is my first file
-
-this is my first text file
-dafec93cfc99a3d891dee8aa8c68ab4086ba3a53
